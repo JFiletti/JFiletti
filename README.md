@@ -6,7 +6,6 @@ Quality Engineering in Space/Defense sector
 
 Learning computers to branch into Cyber Security
 
-This is my personal repository for STEM103 
 
 <!--
 **JFiletti/JFiletti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
