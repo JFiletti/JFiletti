@@ -2,9 +2,7 @@ CS/IT student at EVCC.
 
 USN Veteran
 
-Quality Engineering in Space/Defense sector
-
-Learning computers to branch into Cyber Security
+Quality in Space/Defense sector
 
 
 <!--
